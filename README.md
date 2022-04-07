@@ -1,2 +1,2 @@
 # AT-Command
-Supports to format an string to AT Command or parse command and values from the response
+Contains sources for formatting an string to AT Command or parsing command and values from the response
